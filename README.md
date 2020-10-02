@@ -10,6 +10,9 @@
 ## Design Software
 
 
+## Finishes
+
+
 ## Techniques
 
 
@@ -23,6 +26,33 @@
 
 
 ## Tool Suppliers
+
+## Workbench Features
+
+### Bench dogs
+
+### Holdfasts
+
+### Sliding dead man
+
+### Face Vise
+
+### Tail Vise
+
+## Workbench Manufacturers
+
+## Workbench Styles
+
+
+### European
+
+### Moravian
+
+### Nicholson
+
+### Roubo
+
+
 
 
 ## YouTube Channels
