@@ -31,11 +31,19 @@
 
 ### Bench dogs
 
+### Dog holes
+
 ### Holdfasts
+
+#### Modern
+
+#### Traditional
 
 ### Sliding dead man
 
 ### Face Vise
+
+### Leg Vise
 
 ### Tail Vise
 
