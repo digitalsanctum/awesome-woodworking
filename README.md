@@ -49,6 +49,8 @@
 
 ## Workbench Manufacturers
 
+### Sjobergs
+
 ## Workbench Styles
 
 
