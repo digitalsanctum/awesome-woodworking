@@ -16,11 +16,37 @@
 ## Techniques
 
 
+## Jigs
+
+### Misc. Jigs
+
+### Router Jigs
+
+### Table Saw Jigs
+
+
 ## Hand Tools
 
 
 ## Power Tools
 
+### Biscuit Joiner
+
+### Planer
+
+### Router
+
+### Belt Sander
+
+### Drum Sander
+
+### Band Saw
+
+### Circular Saw
+
+### Jig Saw
+
+### Table Saw
 
 ## Tool Manufacturers
 
